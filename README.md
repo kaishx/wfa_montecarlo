@@ -12,7 +12,7 @@
 
 **Write Up:**
 
-[Write-Up (Hosted on HackMD)]([https://t.me/+12M82bTPLAtjMzZl](https://hackmd.io/@k-a-i/H12dLFqCge))
+[Write-Up (Hosted on HackMD)](https://hackmd.io/@k-a-i/H12dLFqCge)
 
 ---
 
