@@ -1,0 +1,188 @@
+============================================================
+FILE: DIS_CMCSA_010120_15m_0.05_20251108_103054.log
+============================================================
+############################################################
+Timeframe Used: 1Min, Value: 15
+ADF Cointegration Filter Threshold: 0.05
+Total OOS Windows Tested: 81
+Total Trades Executed: 344
+--- Final Performance Metrics ---
+Total PnL: $-1,029.87
+Overall Sharpe Ratio (Annualized): -0.2884
+Overall Calmar Ratio (Annualized): -0.0658
+Maximum Dollar Drawdown (MDD): $924.70
+
+--- Execution Time ---
+Total Elapsed Time: 45.92 seconds
+############################################################
+[0m
+
+
+
+============================================================
+FILE: DIS_CMCSA_010120_15m_0.1_20251108_103144.log
+============================================================
+############################################################
+Timeframe Used: 1Min, Value: 15
+ADF Cointegration Filter Threshold: 0.1
+Total OOS Windows Tested: 81
+Total Trades Executed: 603
+--- Final Performance Metrics ---
+Total PnL: $-753.11
+Overall Sharpe Ratio (Annualized): -0.1318
+Overall Calmar Ratio (Annualized): -0.0242
+Maximum Dollar Drawdown (MDD): $1,549.84
+
+--- Execution Time ---
+Total Elapsed Time: 47.15 seconds
+############################################################
+[0m
+
+
+
+============================================================
+FILE: DIS_CMCSA_010120_1h_0.05_20251108_102923.log
+============================================================
+############################################################
+Timeframe Used: 1Hour, Value: 1
+ADF Cointegration Filter Threshold: 0.05
+Total OOS Windows Tested: 81
+Total Trades Executed: 134
+--- Final Performance Metrics ---
+Total PnL: $-1,980.86
+Overall Sharpe Ratio (Annualized): -0.4406
+Overall Calmar Ratio (Annualized): -0.0676
+Maximum Dollar Drawdown (MDD): $1,857.52
+
+--- Execution Time ---
+Total Elapsed Time: 42.07 seconds
+############################################################
+[0m
+
+
+
+============================================================
+FILE: DIS_CMCSA_010120_1h_0.1_20251108_103008.log
+============================================================
+############################################################
+Timeframe Used: 1Hour, Value: 1
+ADF Cointegration Filter Threshold: 0.1
+Total OOS Windows Tested: 81
+Total Trades Executed: 150
+--- Final Performance Metrics ---
+Total PnL: $-1,366.98
+Overall Sharpe Ratio (Annualized): -0.2452
+Overall Calmar Ratio (Annualized): -0.0467
+Maximum Dollar Drawdown (MDD): $1,507.88
+
+--- Execution Time ---
+Total Elapsed Time: 42.65 seconds
+############################################################
+[0m
+
+
+
+============================================================
+FILE: DIS_CMCSA_010120_1m_0.05_20251108_103234.log
+============================================================
+############################################################
+Timeframe Used: 1Min, Value: 1
+ADF Cointegration Filter Threshold: 0.05
+Total OOS Windows Tested: 80
+Total Trades Executed: 2949
+--- Final Performance Metrics ---
+Total PnL: $-774.73
+Overall Sharpe Ratio (Annualized): -0.2688
+Overall Calmar Ratio (Annualized): -0.0860
+Maximum Dollar Drawdown (MDD): $896.57
+
+--- Execution Time ---
+Total Elapsed Time: 147.34 seconds
+############################################################
+[0m
+
+
+
+============================================================
+FILE: DIS_CMCSA_010120_1m_0.1_20251108_103505.log
+============================================================
+############################################################
+Timeframe Used: 1Min, Value: 1
+ADF Cointegration Filter Threshold: 0.1
+Total OOS Windows Tested: 80
+Total Trades Executed: 5332
+--- Final Performance Metrics ---
+Total PnL: $-673.37
+Overall Sharpe Ratio (Annualized): -0.1181
+Overall Calmar Ratio (Annualized): -0.0198
+Maximum Dollar Drawdown (MDD): $1,471.61
+
+--- Execution Time ---
+Total Elapsed Time: 148.32 seconds
+############################################################
+[0m
+
+
+
+============================================================
+FILE: DIS_CMCSA_080120_1m_0.05_20251108_103737.log
+============================================================
+############################################################
+Timeframe Used: 1Min, Value: 1
+ADF Cointegration Filter Threshold: 0.05
+Total OOS Windows Tested: 80
+Total Trades Executed: 7310
+--- Final Performance Metrics ---
+Total PnL: $-272.57
+Overall Sharpe Ratio (Annualized): -0.0550
+Overall Calmar Ratio (Annualized): -0.0173
+Maximum Dollar Drawdown (MDD): $759.07
+
+--- Execution Time ---
+Total Elapsed Time: 147.22 seconds
+############################################################
+[0m
+
+
+
+============================================================
+FILE: DIS_CMCSA_150120_1m_0.05_20251108_104008.log
+============================================================
+############################################################
+Timeframe Used: 1Min, Value: 1
+ADF Cointegration Filter Threshold: 0.05
+Total OOS Windows Tested: 80
+Total Trades Executed: 8874
+--- Final Performance Metrics ---
+Total PnL: $97.92
+Overall Sharpe Ratio (Annualized): 0.0202
+Overall Calmar Ratio (Annualized): 0.0034
+Maximum Dollar Drawdown (MDD): $1,215.06
+
+--- Execution Time ---
+Total Elapsed Time: 149.33 seconds
+############################################################
+[0m
+
+
+
+============================================================
+FILE: DIS_CMCSA_220120_1m_0.05_20251108_104241.log
+============================================================
+############################################################
+Timeframe Used: 1Min, Value: 1
+ADF Cointegration Filter Threshold: 0.05
+Total OOS Windows Tested: 80
+Total Trades Executed: 5029
+--- Final Performance Metrics ---
+Total PnL: $-229.53
+Overall Sharpe Ratio (Annualized): -0.0486
+Overall Calmar Ratio (Annualized): -0.0086
+Maximum Dollar Drawdown (MDD): $1,150.98
+
+--- Execution Time ---
+Total Elapsed Time: 147.92 seconds
+############################################################
+[0m
+
+
